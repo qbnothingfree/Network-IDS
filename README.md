@@ -1,3 +1,5 @@
+# This program monitors the network traffic/logon attempts from users on a network. It can be used for basic auditing and security purposes.
+
 from scapy.all import sniff
 from collections import defaultdict
 import time
