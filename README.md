@@ -1,4 +1,4 @@
-# This program monitors the network traffic/logon attempts from users on a network. It can be used for basic auditing and security purposes.
+# This program monitors the network traffic/logon attempts from users on a network. It can be used for basic auditing and security purposes. The Program logs show an example of how it functions.
 
 from scapy.all import sniff
 from collections import defaultdict
